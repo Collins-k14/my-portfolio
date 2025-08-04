@@ -9,7 +9,7 @@ This is my personal portfolio website built using **HTML** and **CSS** only—no
 ## 📸 Features
 
 - Responsive design for desktop and mobile
-- Smooth scroll and section transitio
+- Smooth scroll and section transition
 - Responsive Contact form 
 - Footer with social icons and contact details
 
